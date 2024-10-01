@@ -9,7 +9,7 @@
 
 - How to reach me **elallisanketh7@gmail.com**
 
-- Know about my experiences [shorturl.at/9eyQS](shorturl.at/9eyQS)
+- Know about my experiences [https://shorturl.at/qTAwe](https://shorturl.at/qTAwe)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
