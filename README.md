@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanketh Elalli</h1>
+<h1 align="center">Hi, I'm Sanketh Elalli</h1>
 <h3 align="center">Python Enthusiast | Full Stack Developer | Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankethelalli&label=Profile%20views&color=0e75b6&style=flat" alt="sankethelalli" /> </p>
