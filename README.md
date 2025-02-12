@@ -9,7 +9,7 @@
 
 - How to reach me **elallisanketh7@gmail.com**
 
-- Know about my experiences [](https://rb.gy/ecqvzi)
+- Know about my experiences [https://rb.gy/ecqvzi](https://rb.gy/ecqvzi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
