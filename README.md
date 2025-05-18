@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sn_keth" target="blank"><img src="https://img.shields.io/twitter/follow/sn_keth?logo=twitter&style=for-the-badge" alt="sn_keth" /></a> </p>
 
-- All of my projects are available at [https://github.com/SankethElalli](https://github.com/SankethElalli)
+- Portfolio [https://portfolio-asz1.onrender.com]
 
 - How to reach me **elallisanketh7@gmail.com**
 
