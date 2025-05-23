@@ -2,7 +2,7 @@
 <h3 align="center">Stack & Software Developer</h3>
 
 
-## Socials:
+# Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6dTKFd4QqE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/snketh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elallisanketh7@gmail.com) 
 
 # Tech Stack:
