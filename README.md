@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sanketh Elalli</h1>
-<h3 align="center">Go-To-Market | AI & Automation</h3>
+<h3 align="center">AI & Automation | Go-To-Market</h3>
 
 
 ## Socials:
