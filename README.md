@@ -73,4 +73,8 @@
 
 ### Contribution Snake
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/SankethElalli/SankethElalli/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
