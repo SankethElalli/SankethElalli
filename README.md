@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1200&color=8AFFF1&center=true&vCenter=true&width=650&lines=GTM+AI+Engineer+%40+NetCom+Learning;Building+RAG+Pipelines+%26+Multi-Agent+Systems;Automating+Sales+%2B+RevOps+with+AI;Co-Founder+%40+ScenePulse)](https://git.io/typing-svg)
 
 <!-- Replace SankethElalli everywhere below with your actual GitHub handle -->
-![Profile Views](https://komarev.com/ghpvc/?username=SankethElalli&style=for-the-badge&color=#b5b5b5&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=SankethElalli&style=for-the-badge&color=b5b5b5&label=PROFILE+VIEWS)
 ![Open to Work](https://img.shields.io/badge/Open_to-GTM_AI_%2F_Automation_roles-brightgreen?style=for-the-badge)
 
 </div>
