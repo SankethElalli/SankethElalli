@@ -23,7 +23,7 @@
 - Currently a **GTM AI Engineer** at **NetCom Learning**, building AI-driven outreach automation, RAG pipelines, and multi-agent systems for Sales & RevOps
 - Deep in **n8n** workflow architecture, **CRM integrations** (Microsoft Dynamics 365, HubSpot), and LLM-powered pipelines using OpenAI & Anthropic Claude
 - Comfortable across the stack: Supabase/Postgres, vector search & RAPTOR retrieval, Next.js, and CRM/API integrations
-- Ask me about RAG pipelines, n8n automation, GTM engineering, or agentic architectures
+- Ask me about RAG pipelines, n8n automation, GTM engineering & Agentic architectures
 - Reach me at **elallisanketh7@gmail.com**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt="divider"/>
