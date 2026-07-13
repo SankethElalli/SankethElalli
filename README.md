@@ -28,15 +28,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt="divider"/>
 
-### Featured Project
 
-<div align="center">
-
-**ScenePulse** — an AI-driven platform for arts & entertainment, connecting fans, artists, and venues through automated discovery and engagement workflows.
-
-![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)
-![n8n](https://img.shields.io/badge/Automation-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/Database-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
