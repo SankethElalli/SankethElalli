@@ -59,10 +59,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SankethElalli&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SankethElalli&theme=react-dark&hide_border=true"/>
 </p>
 
