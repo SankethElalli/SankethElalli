@@ -18,22 +18,22 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt="divider"/>
 
-### 🧠 About Me
+### About Me
 
-- 🔭 Currently a **GTM AI Engineer** at **NetCom Learning**, building AI-driven outreach automation, RAG pipelines, and multi-agent systems for sales & revenue ops
-- 🛠️ Deep in **n8n** workflow architecture, **CRM integrations** (Microsoft Dynamics 365, HubSpot), and LLM-powered pipelines using OpenAI & Anthropic Claude
-- 🎨 Independently building **[ScenePulse](#-featured-project)** — an AI platform connecting fans, artists & venues in the live entertainment space
-- 🧩 Comfortable across the stack: Supabase/Postgres, vector search & RAPTOR retrieval, Next.js, and CRM/API integrations
-- 💬 Ask me about RAG pipelines, n8n automation, GTM engineering, or agentic architectures
-- 📫 Reach me at **elallisanketh7@gmail.com**
+- Currently a **GTM AI Engineer** at **NetCom Learning**, building AI-driven outreach automation, RAG pipelines, and multi-agent systems for Sales & RevOps
+- Deep in **n8n** workflow architecture, **CRM integrations** (Microsoft Dynamics 365, HubSpot), and LLM-powered pipelines using OpenAI & Anthropic Claude
+- Independently building **[ScenePulse](#-featured-project)** — an AI platform connecting fans, artists & venues in the live entertainment space
+- Comfortable across the stack: Supabase/Postgres, vector search & RAPTOR retrieval, Next.js, and CRM/API integrations
+- Ask me about RAG pipelines, n8n automation, GTM engineering, or agentic architectures
+- Reach me at **elallisanketh7@gmail.com**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt="divider"/>
 
-### 🚀 Featured Project
+### Featured Project
 
 <div align="center">
 
-**🎵 ScenePulse** — an AI-driven platform for arts & entertainment, connecting fans, artists, and venues through automated discovery and engagement workflows.
+**ScenePulse** — an AI-driven platform for arts & entertainment, connecting fans, artists, and venues through automated discovery and engagement workflows.
 
 ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/Automation-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -43,7 +43,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt="divider"/>
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -67,7 +67,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt="divider"/>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SankethElalli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -86,7 +86,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SankethElalli&theme=react-dark&hide_border=true"/>
 </p>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/SankethElalli/SankethElalli/output/github-contribution-grid-snake-dark.svg"/>
