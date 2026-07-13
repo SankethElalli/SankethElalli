@@ -28,12 +28,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt="divider"/>
 
-
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt="divider"/>
-
 ### Tech Stack
 
 **Languages**
@@ -78,11 +72,5 @@
 </p>
 
 ### Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/SankethElalli/SankethElalli/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-> The snake animation needs a one-time GitHub Actions setup — see the `snake.yml` file below for the workflow to drop into `.github/workflows/`.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
