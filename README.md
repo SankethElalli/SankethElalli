@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1200&color=8AFFF1&center=true&vCenter=true&width=650&lines=GTM+AI+Engineer+%40+NetCom+Learning;Building+RAG+Pipelines+%26+Multi-Agent+Systems;Automating+Sales+%2B+Revenue+Ops+with+n8n;Founder+%40+ScenePulse+%F0%9F%8E%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1200&color=8AFFF1&center=true&vCenter=true&width=650&lines=GTM+AI+Engineer+%40+NetCom+Learning;Building+RAG+Pipelines+%26+Multi-Agent+Systems;Automating+Sales+%2B+RevOps+with+n8n;Founder+%40+ScenePulse)](https://git.io/typing-svg)
 
 <!-- Replace SankethElalli everywhere below with your actual GitHub handle -->
 ![Profile Views](https://komarev.com/ghpvc/?username=SankethElalli&style=for-the-badge&color=8AFFF1&label=PROFILE+VIEWS)
