@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1200&color=8AFFF1&center=true&vCenter=true&width=650&lines=GTM+AI+Engineer+%40+NetCom+Learning;Building+RAG+Pipelines+%26+Multi-Agent+Systems;Automating+Sales+%2B+RevOps+with+n8n;Founder+%40+ScenePulse)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1200&color=8AFFF1&center=true&vCenter=true&width=650&lines=GTM+AI+Engineer+%40+NetCom+Learning;Building+RAG+Pipelines+%26+Multi-Agent+Systems;Automating+Sales+%2B+RevOps+with+AI;Co-Founder+%40+ScenePulse)](https://git.io/typing-svg)
 
 <!-- Replace SankethElalli everywhere below with your actual GitHub handle -->
 ![Profile Views](https://komarev.com/ghpvc/?username=SankethElalli&style=for-the-badge&color=8AFFF1&label=PROFILE+VIEWS)
@@ -22,7 +22,6 @@
 
 - Currently a **GTM AI Engineer** at **NetCom Learning**, building AI-driven outreach automation, RAG pipelines, and multi-agent systems for Sales & RevOps
 - Deep in **n8n** workflow architecture, **CRM integrations** (Microsoft Dynamics 365, HubSpot), and LLM-powered pipelines using OpenAI & Anthropic Claude
-- Independently building **[ScenePulse](#-featured-project)** — an AI platform connecting fans, artists & venues in the live entertainment space
 - Comfortable across the stack: Supabase/Postgres, vector search & RAPTOR retrieval, Next.js, and CRM/API integrations
 - Ask me about RAG pipelines, n8n automation, GTM engineering, or agentic architectures
 - Reach me at **elallisanketh7@gmail.com**
