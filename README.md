@@ -6,7 +6,7 @@
 
 <!-- Replace SankethElalli everywhere below with your actual GitHub handle -->
 ![Profile Views](https://komarev.com/ghpvc/?username=SankethElalli&style=for-the-badge&color=70446a&label=PROFILE+VIEWS)
-![Open to Work](https://img.shields.io/badge/Open_to-GTM_AI_%2F_Automation_roles-brightgreen?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Open_to-GTM_|_AI_%2F_Automation_roles-brightgreen?style=for-the-badge)
 
 </div>
 
