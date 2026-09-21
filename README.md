@@ -58,10 +58,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SankethElalli&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SankethElalli&theme=react-dark&hide_border=true"/>
-</p>
-
 ### Contribution Snake
 
 <p align="center">
